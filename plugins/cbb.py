@@ -15,7 +15,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("𝕄𝔼ℕ𝕌", callback_data = "close")
+                        InlineKeyboardButton("𝕂𝔼𝕄𝔹𝔸𝕃𝕀", callback_data = "close")
                     ]
                 ]
             )
